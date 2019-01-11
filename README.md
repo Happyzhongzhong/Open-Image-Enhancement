@@ -1,9 +1,9 @@
-# OpenCE
+# Open Image Enhancement
 Contrast Enhancement Techniques
 
 ## Methods
 
-### Lowlight Image Enhancement
+### Low-light Image Enhancement
 
 * HE-based
   * BPDHE `bpdhe`
