@@ -26,8 +26,6 @@ Contrast Enhancement Techniques
   * [Ying_2017_ICCV.m](https://github.com/baidut/OpenCE/blob/master/ours/Ying_2017_ICCV.m)
 * Fusion-based
   * [Ying_2017_CAIP.m ](https://github.com/baidut/OpenCE/blob/master/ours/Ying_2017_CAIP.m)   [python version](https://github.com/AndyHuang1995/New-Image-Contrast-Enhancement)
-* Deep-learning-based
-  * Learning a Deep Single Image Contrast Enhancer from Multi-Exposure Images *TIP 2018* [website](https://github.com/csjcai/SICE)
 * Others
   * `others/jed.m` JED "[Joint Enhancement and Denoising Method via Sequential Decomposition](http://www.icst.pku.edu.cn/course/icb/Projects/JED.html)" , *ISCAS 2018* [website](https://github.com/tonghelen/JED-Method)
 
@@ -144,16 +142,4 @@ Source code can be found at `ours` folder:
   year={2013},
   organization={IEEE}
 }
-@article{Cai2018deep,
-title={Learning a Deep Single Image Contrast Enhancer from Multi-Exposure Images}, 
-author={Cai, Jianrui and Gu, Shuhang and Zhang, Lei},
-journal={IEEE Transactions on Image Processing},
-volume={27}, 
-number={4}, 
-pages={2049-2062}, 
-year={2018}, 
-publisher={IEEE}
-}
-```
-
 **Please feel free to contact me (yingzhenqiang-at-gmail-dot-com) if you have any further questions or concerns.** 
