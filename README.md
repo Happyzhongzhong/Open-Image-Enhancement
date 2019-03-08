@@ -41,6 +41,7 @@ Contrast Enhancement Techniques
 - 7 of 4.2.0x from [The USCI-SIPI Image Database, Volume 3: Miscellaneous](http://sipi.usc.edu/database/database.php?volume=misc)
 - 69 captured images from commercial digital cameras: [Download (15.3 MB)](http://mcl.korea.ac.kr/projects/LDR/LDR_TEST_IMAGES_DICM.zip)
 - 4 synthetic images: [Download (445 kB)](http://mcl.korea.ac.kr/projects/LDR/LDR_TEST_IMAGES_SYNTHETIC.zip)
+- MIT Intrinsic Images dataset: http://www.cs.toronto.edu/~rgrosse/intrinsic/
 
 
 
@@ -140,6 +141,14 @@ Source code can be found at `ours` folder:
   booktitle={Intelligent Signal Processing and Communications Systems (ISPACS), 2013 International Symposium on},
   pages={445--449},
   year={2013},
+  organization={IEEE}
+}
+@inproceedings{grosse2009ground,
+  title={Ground truth dataset and baseline evaluations for intrinsic image algorithms},
+  author={Grosse, Roger and Johnson, Micah K and Adelson, Edward H and Freeman, William T},
+  booktitle={2009 IEEE 12th International Conference on Computer Vision},
+  pages={2335--2342},
+  year={2009},
   organization={IEEE}
 }
 **Please feel free to contact me (yingzhenqiang-at-gmail-dot-com) if you have any further questions or concerns.** 
